@@ -1,0 +1,11 @@
+{
+  "name": "file-reader-writer",
+  "version": "1.0.0",
+  "description": "Node.js file reader and writer project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
